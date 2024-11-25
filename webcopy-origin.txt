@@ -1,0 +1,185 @@
+Uri: https://mc.yandex.ru/watch/96741932
+File Name: C:\Users\GHOST\Downloads\qlean.kz\watch\96741932
+Content Type: image/gif
+
+Uri: https://qlean.kz/astana
+File Name: C:\Users\GHOST\Downloads\qlean.kz\astana.html
+Content Type: text/html
+
+Uri: https://qlean.kz/css/main-media.css?v=8.1
+File Name: C:\Users\GHOST\Downloads\qlean.kz\css\main-media.css
+Content Type: text/css
+
+Uri: https://qlean.kz/css/main.css?v=8.1
+File Name: C:\Users\GHOST\Downloads\qlean.kz\css\main.css
+Content Type: text/css
+
+Uri: https://qlean.kz/css/roboto.css
+File Name: C:\Users\GHOST\Downloads\qlean.kz\css\roboto.css
+Content Type: text/css
+
+Uri: https://qlean.kz/css/style-media.css?v=8
+File Name: C:\Users\GHOST\Downloads\qlean.kz\css\style-media.css
+Content Type: text/css
+
+Uri: https://qlean.kz/css/style.css?v=9.3
+File Name: C:\Users\GHOST\Downloads\qlean.kz\css\style.css
+Content Type: text/css
+
+Uri: https://qlean.kz/images/arrow-right-icon.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\arrow-right-icon.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/available-price-icon.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\available-price-icon.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/card-icon.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\card-icon.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/cleaners/team-icon-01.png?v=1.1
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\cleaners\team-icon-01.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/cleaners/team-icon-02.png?v=1.1
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\cleaners\team-icon-02.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/cleaners/team-icon-03.png?v=1.1
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\cleaners\team-icon-03.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/cropped-favicon-180x180.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/cropped-favicon-192x192.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/cropped-favicon-32x32.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/flask-icon.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\flask-icon.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/logo.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\logo.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/people-icon.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\people-icon.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/star-active.png
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\star-active.png
+Content Type: image/png
+
+Uri: https://qlean.kz/images/work/2rgBBvbmB-4.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\2rgBBvbmB-4.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/5Emo8pKk_pk.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\5Emo8pKk_pk.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/8JDNRMyKNDY.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\8JDNRMyKNDY.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/AsBRBcqwuOw.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\AsBRBcqwuOw.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/cR3bwNzeszs.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\cR3bwNzeszs.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/DpG9cLtyXXc.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\DpG9cLtyXXc.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/fdkcZYojE4E.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\fdkcZYojE4E.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/LOsm8UFpe8s-1.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\LOsm8UFpe8s-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/oe9ZSYwTbc0.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\oe9ZSYwTbc0.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/PneOHkgG4345.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\PneOHkgG4345.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/PneOHkgG43456.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\PneOHkgG43456.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/Rju5rbDoK4M.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\Rju5rbDoK4M.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/rV4asHma7nA.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\rV4asHma7nA.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/images/work/ZBEJO-T0b7A.jpg
+File Name: C:\Users\GHOST\Downloads\qlean.kz\images\work\ZBEJO-T0b7A.jpg
+Content Type: image/jpeg
+
+Uri: https://qlean.kz/js/jquery-3.3.1.min.js
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/jquery-ui.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/jquery.event.move.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\jquery.event.move.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/jquery.inputmask.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\jquery.inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/jquery.lazyload.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\jquery.lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/jquery.scrollstop.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\jquery.scrollstop.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/jquery.twentytwenty.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\jquery.twentytwenty.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/main.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://qlean.kz/js/owl.carousel.min.js?v=7
+File Name: C:\Users\GHOST\Downloads\qlean.kz\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=258286014763313&ev=PageView
+&noscript=1
+File Name: C:\Users\GHOST\Downloads\qlean.kz\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=649602468766987&ev=PageView&noscript=1
+File Name: C:\Users\GHOST\Downloads\qlean.kz\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-5DQ2RLVZWR
+File Name: C:\Users\GHOST\Downloads\qlean.kz\gtag\js
+Content Type: application/javascript
+
